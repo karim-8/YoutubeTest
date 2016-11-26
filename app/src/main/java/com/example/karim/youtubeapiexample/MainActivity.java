@@ -18,7 +18,7 @@ public class MainActivity extends YouTubeBaseActivity implements YouTubePlayer.O
 
     YouTubePlayerView youTubePlayerView;
     //Api key
-    public static final String Api_Key = "";
+    public static final String Api_Key = "bbsb";
 
     //video id
     public static final String Video_Id1 = "-m3V8w_7vhk";
